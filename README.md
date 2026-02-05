@@ -60,11 +60,11 @@ s.close()
 ## OUPUT
 ### server:
 
-![alt text](<../Screenshot 2026-02-05 205110.png>)
+![alt text](<Screenshot 2026-02-05 205110 copy.png>)
 
 ### client:
 
-![alt text](<../Screenshot 2026-02-05 205127.png>)
+![alt text](<Screenshot 2026-02-05 205127.png>)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
